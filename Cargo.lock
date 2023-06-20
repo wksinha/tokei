@@ -1225,7 +1225,7 @@ dependencies = [
 
 [[package]]
 name = "table_formatter"
-version = "0.5.0"
+version = "^0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0a3ee6ec0d82206e16c1070eee3a5b50c6e276eaabde788e43db61d85d02f989"
 dependencies = [
